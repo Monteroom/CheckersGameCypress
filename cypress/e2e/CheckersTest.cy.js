@@ -34,3 +34,4 @@ describe('Checkers Game Tests', () => {
        checkersPage.message().should('have.text', 'Select an orange piece to move.');
     });
 });
+//
