@@ -35,4 +35,3 @@ class CheckersPage {
     restartBtn = () => cy.get('a[href="./"]');
 }
 export default CheckersPage;
-//
